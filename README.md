@@ -1,4 +1,4 @@
-SMPSEQ3 - Fun with Sequences 2 Pyhton and 1 Csharp Solution
+SMPSEQ3 - Fun with Sequences in Csharp
 
 https://www.spoj.com/problems/SMPSEQ3/
 
